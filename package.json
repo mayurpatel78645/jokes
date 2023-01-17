@@ -1,0 +1,16 @@
+{
+  "name": "anime",
+  "version": "1.0.0",
+  "description": "anime quotes",
+  "main": "app.js",
+  "dependencies": {
+    "anime-images-api": "^1.0.32",
+    "dev": "^0.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

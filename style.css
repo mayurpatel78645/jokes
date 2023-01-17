@@ -1,0 +1,46 @@
+*, *::after, *::before{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  height: 100vh;
+  width: 100vw;
+  justify-content: center;
+}
+
+h1{
+  color: rgb(5, 26, 63);
+  opacity: 1;
+  background-color: whitesmoke;
+  font-size: xx-large;
+  text-align: center;
+  text-decoration: underline;
+  padding: 100px;
+}
+
+h3{
+  background-color: black;
+  color: white;
+  font-size: xx-large;
+  text-align: center;
+}
+
+#anime-quote {
+  background-color:hsl(22,91%,57%);
+  padding: 50px;
+  text-align: center;
+  font-size: xx-large;
+}
+
+img {
+  position: fixed;
+  height: 100vh;
+  width: 100vw;
+  opacity: 1;
+}
+
+img:hover{
+  opacity: 0.2;
+}
