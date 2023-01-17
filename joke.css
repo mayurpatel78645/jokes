@@ -1,0 +1,14 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  height: 100vh;
+}
+
+.joke{
+  color: blanchedalmond;
+  background-color: black;
+  text-align: center;
+  font-size: xx-large;
+  align-self: center;
+}
